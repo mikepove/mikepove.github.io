@@ -1,8 +1,6 @@
-## PoveLab on GitHub Pages
+### Research interests
 
-You can use the [editor on GitHub](https://github.com/mikepove/povelab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our main research interest is innate immune recognition and elimination of pathogens. Our work focuses on the interaction between mosquitoes and the animal and human pathogens they transmit. As the most species-rich group of animals on the planet occupying a vast array of ecological niches, insects are a fantastic example of the potency of innate defenses.
 
 ### Markdown
 
